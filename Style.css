@@ -20,9 +20,27 @@
     margin-top: 15px;
     float: left;
     height:200px;
-    background-color: red;
+    /* background-color: red; */
     width: 24%;
     border: 1px solid green;
      margin-left: 10px;
     margin-bottom: 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #9e092e;
+
+}
+.footer{
+    background-color: black;
+    height: 150px;
+    float: left;
+    width: 98%;
+    color: white;
+}
+.footer-item{
+    float: left;
+    height: 15px;
+    margin-left: 50px;
+    width: 33%;
 }
